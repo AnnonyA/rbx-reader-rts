@@ -1,6 +1,6 @@
 // src/types.ts
 
-import ByteReader from './ByteReader.ts';
+import ByteReader from './ByteReader';
 
 export interface Instance {
   id: number;
